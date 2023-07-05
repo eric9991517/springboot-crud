@@ -25,3 +25,23 @@ spring.datasource.password=***yourpassword*** (替換成自己的密碼)
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.properties.hibernate.show_sql=ture
 ```
+
+# 示意圖
+
+## HomePage
+
+![image](https://github.com/eric9991517/springboot-crud/blob/main/image/HomePage.jpg?raw=true)
+
+## Add New User
+
+![image](https://github.com/eric9991517/springboot-crud/blob/main/image/users_form.jpg?raw=true)
+
+![image](https://github.com/eric9991517/springboot-crud/blob/main/image/add_new_user.jpg?raw=true)
+
+## Edit User
+
+![image](https://github.com/eric9991517/springboot-crud/blob/main/image/edit_user.jpg?raw=true)
+
+## Delete User
+
+![image](https://github.com/eric9991517/springboot-crud/blob/main/image/delete_user.jpg?raw=true)
